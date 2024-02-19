@@ -38,3 +38,7 @@ This project utilizes Terraform to manage the small infrastructure of this appli
 6. Cleanups
 
  `terraform destroy`
+
+
+Note: Before running the Terraform commands, make sure that you have it installed on your machine. If not, then please visit the link below for instructions on how to build it in your OS.
+Link to installation: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
