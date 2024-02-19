@@ -4,9 +4,9 @@
 This project utilizes Terraform to manage the small infrastructure of this application. This application demonstrates the deployment of a Flask application on localhost when run. It is then dockerized by building an image using Docker.
 
 ### Features
-Flask: A simple Flask app that says " Hello Docker " when run.
-Docker: The Flask app is then containerized using Docker.
-Terraform: The components of this application are defined and managed by Terraform.
+- Flask: A simple Flask app that says " Hello Docker " when run.
+- Docker: The Flask app is then containerized using Docker.
+- Terraform: The components of this application are defined and managed by Terraform.
 
 ### Getting Started
 1. Clone the repository
