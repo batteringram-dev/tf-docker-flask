@@ -1,4 +1,4 @@
-# Docker Containers with Terraform
+# Docker Container with Terraform
 
 ### Overview
 This project utilizes Terraform to manage the small infrastructure of this application. This application demonstrates the deployment of a Flask application on localhost when run. It is then dockerized by building an image using Docker.
